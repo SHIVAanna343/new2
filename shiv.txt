@@ -1,4 +1,3 @@
-
 class Employee{  
  float salary=40000;  
 }  
@@ -10,4 +9,3 @@ class Programmer extends Employee{
    System.out.println("Bonus of Programmer is:"+p.bonus);  
 }  
 }  
-
